@@ -9,7 +9,6 @@ Projenin temel amacı, müüteri davranışlarını daha iyi anlamak ve pazarlam
 - **Python**: Veri analizi ve makine öğrenimi
   - Kütüphaneler: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Jupyter Notebook**: Kod yazımı ve analiz
-- **GitHub**: Projenin versiyon kontrolü ve paylaşımı
 
 ## Projede Yapılanlar
 
