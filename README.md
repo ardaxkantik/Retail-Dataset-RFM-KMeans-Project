@@ -3,7 +3,7 @@
 Bu proje, müşteri verilerini analiz ederek segmente etmek ve anlamlı içgörüler elde etmek için **RFM (Recency, Frequency, Monetary)** analizi ile **KMeans Clustering** yöntemini birleştirmektedir.
 
 ## Proje Amacı
-Projenin temel amacı, müüteri davranışlarını daha iyi anlamak ve pazarlama stratejilerini iyileştirmek için müşterileri segmente etmektir. Bu sayede, farklı segmentlere özel stratejiler geliştirilebilir.
+Projenin temel amacı, müşteri davranışlarını daha iyi anlamak ve pazarlama stratejilerini iyileştirmek için müşterileri segmente etmektir. Bu sayede, farklı segmentlere özel stratejiler geliştirilebilir.
 
 ## Kullanılan Teknolojiler ve Araçlar
 - **Python**: Veri analizi ve makine öğrenimi
